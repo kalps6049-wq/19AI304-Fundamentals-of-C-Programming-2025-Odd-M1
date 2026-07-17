@@ -38,7 +38,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](<Screenshot 2026-05-26 112044.png>)
+<img width="877" height="267" alt="image" src="https://github.com/user-attachments/assets/fbf102e4-8071-495d-a027-d41389aed157" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -86,7 +87,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](image.png)
+<img width="1091" height="332" alt="image" src="https://github.com/user-attachments/assets/5f5acc04-38f4-4b07-8e35-d1fffba80a85" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -131,7 +133,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](<Screenshot 2026-05-26 113008.png>)
+<img width="1092" height="358" alt="image" src="https://github.com/user-attachments/assets/df30224b-9a56-485e-8faa-92d4838119e5" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -207,7 +210,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](image-1.png)
+<img width="1075" height="775" alt="image" src="https://github.com/user-attachments/assets/42afe70d-80bf-450e-9a10-5d338952aba2" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -283,9 +287,12 @@ int main() {
 }
 ```
 # Output:
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="1063" height="653" alt="image" src="https://github.com/user-attachments/assets/700719d6-9ff0-4e27-826c-5f186f2a6d0e" />
+
+<img width="610" height="337" alt="image" src="https://github.com/user-attachments/assets/447d3459-3aef-4274-89b3-f622b4e44c89" />
+<img width="606" height="386" alt="image" src="https://github.com/user-attachments/assets/f9f9c814-de79-4685-aae3-0e08b6a50955" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
